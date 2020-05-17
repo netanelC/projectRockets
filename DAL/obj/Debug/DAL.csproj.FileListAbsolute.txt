@@ -1,0 +1,141 @@
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\DAL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\BE.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\obj\Debug\DAL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\neriya git project\windows-system-project-mvvm\DAL\obj\Debug\DAL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\DAL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\BE.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\BE.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\BE.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll.config
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\DAL.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\BE.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\BE.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\DAL\obj\Debug\DAL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll.config
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll.config
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\DAL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\BE.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\BE.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\bin\Debug\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\obj\Debug\DAL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\DAL\obj\Debug\DAL.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll.config
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll.config
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\DAL.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\DAL.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\BE.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\BE.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.Math.Core.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\Accord.Statistics.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\bin\Debug\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\obj\Debug\DAL.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\DAL\obj\Debug\DAL.pdb
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.dll.config
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\DAL.dll.config
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\DAL.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\DAL.pdb
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.Math.Core.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.Math.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.Statistics.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\BE.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\EntityFramework.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\BE.pdb
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.Math.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.Math.Core.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\Accord.Statistics.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\EntityFramework.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\bin\Debug\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\ProjectRockets\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\ProjectRockets\DAL\obj\Debug\DAL.dll
+C:\Users\netan\Desktop\ProjectRockets\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,100 @@
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.MachineLearning.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.Core.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Statistics.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BE.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\DAL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\EntityFramework.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BE.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BE.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\DAL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\DAL.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.MachineLearning.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.Core.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Statistics.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\EntityFramework.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.csprojAssemblyReference.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.csproj.CopyComplete
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\WpfAnimatedGif.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\WpfAnimatedGif.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.dll.config
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BL.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.MachineLearning.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.Core.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Statistics.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BE.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\DAL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\WpfAnimatedGif.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\EntityFramework.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\BE.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\DAL.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.MachineLearning.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Math.Core.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\Accord.Statistics.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\WpfAnimatedGif.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\bin\Release\EntityFramework.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\BL\obj\Release\BL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.dll.config
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\BL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\BL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.Math.Core.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.Math.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.Statistics.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\BE.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\DAL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\EntityFramework.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\BE.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\DAL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.Math.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.Math.Core.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\Accord.Statistics.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\bin\Release\EntityFramework.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\obj\Release\BL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\BL\obj\Release\BL.pdb
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.dll.config
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\BL.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\BL.pdb
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.Math.Core.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.Math.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.Statistics.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\BE.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\DAL.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\EntityFramework.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\BE.pdb
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\DAL.pdb
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.Math.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.Math.Core.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\Accord.Statistics.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\bin\Release\EntityFramework.xml
+C:\Users\netan\Desktop\ProjectRockets\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\ProjectRockets\BL\obj\Release\BL.dll
+C:\Users\netan\Desktop\ProjectRockets\BL\obj\Release\BL.pdb

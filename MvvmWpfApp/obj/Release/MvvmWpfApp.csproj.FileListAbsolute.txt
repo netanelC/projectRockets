@@ -1,0 +1,283 @@
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.exe.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.exe
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.MachineLearning.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.Core.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Statistics.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ControlzEx.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\log4net.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignColors.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MvvmDialogs.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Toolkit.WPF.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WPFToolkit.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.MachineLearning.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.Core.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Statistics.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ControlzEx.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\log4net.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignColors.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MvvmDialogs.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.xml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.dll.config
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\MvvmWpfApp.csprojAssemblyReference.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Controls\ActionButton.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\GeoLocationAutoComplete.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MapView.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\About.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MainWindow.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\NewReportFormView.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\App.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_Content.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_MarkupCompile.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_MarkupCompile.lref
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\App.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Controls\ActionButton.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\GeoLocationAutoComplete.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MapView.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\About.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MainWindow.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\NewReportFormView.baml
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.g.resources
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\MvvmWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\MvvmWpfApp.csproj.CopyComplete
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.exe
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.pdb
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WpfAnimatedGif.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\XamlAnimatedGif.dll
+C:\Users\Ariel Eshel\אריאל\קורסים\סמסטר א\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WpfAnimatedGif.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.dll.config
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.exe.config
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.exe
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.MachineLearning.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.Core.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Statistics.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ControlzEx.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\log4net.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignColors.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MvvmDialogs.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Toolkit.WPF.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WpfAnimatedGif.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WPFToolkit.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\XamlAnimatedGif.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BL.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.MachineLearning.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.Core.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Statistics.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ControlzEx.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\log4net.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignColors.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MvvmDialogs.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WpfAnimatedGif.xml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.pdb
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\MvvmWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\About.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\App.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Controls\ActionButton.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\GeoLocationAutoComplete.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MapView.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\About.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MainWindow.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\NewReportFormView.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\App.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_Content.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_MarkupCompile.cache
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_MarkupCompile.lref
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Controls\ActionButton.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\GeoLocationAutoComplete.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MapView.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MainWindow.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\NewReportFormView.baml
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.g.resources
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.exe
+C:\Users\Tal\Downloads\הנדסת מערכות חלונות-20200504T193803Z-001\הנדסת מערכות חלונות\להגשה\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.exe.config
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.dll.config
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.exe
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Red Alert.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.Core.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Statistics.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ControlzEx.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\log4net.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignColors.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MvvmDialogs.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\System.Windows.Interactivity.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Toolkit.WPF.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WPFToolkit.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\XamlAnimatedGif.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BE.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\BL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Math.Core.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Accord.Statistics.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ControlzEx.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Dragablz.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\log4net.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignColors.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\MvvmDialogs.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\OxyPlot.Wpf.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\DAL.pdb
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\MvvmWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\About.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\App.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Controls\ActionButton.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\GeoLocationAutoComplete.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MapView.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\About.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MainWindow.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\NewReportFormView.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\App.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_Content.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_MarkupCompile.cache
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert_MarkupCompile.lref
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Controls\ActionButton.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\GeoLocationAutoComplete.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MapView.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\MainWindow.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Views\NewReportFormView.baml
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.g.resources
+C:\Users\netan\Desktop\תואר\שנה ג\סמסטר א\windows-project\windows-system-project-mvvm\MvvmWpfApp\obj\Release\Red Alert.exe

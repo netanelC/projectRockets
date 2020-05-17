@@ -1,0 +1,185 @@
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.dll.config
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Red Alert.exe.config
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Red Alert.exe
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Red Alert.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.Math.Core.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.Math.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.Statistics.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\BE.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\BL.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\ControlzEx.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Dragablz.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\EntityFramework.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\log4net.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MvvmDialogs.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\OxyPlot.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Toolkit.WPF.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\WPFToolkit.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\XamlAnimatedGif.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\DAL.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\BE.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\BL.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.Math.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.Math.Core.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Accord.Statistics.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\ControlzEx.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Dragablz.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Dragablz.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\EntityFramework.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\log4net.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\MvvmDialogs.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\OxyPlot.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\OxyPlot.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\DAL.pdb
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\About.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\App.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Controls\ActionButton.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\GeoLocationAutoComplete.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\MapView.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\About.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\NewReportFormView.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\App.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Red Alert_Content.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Red Alert_MarkupCompile.cache
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Red Alert_MarkupCompile.lref
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Controls\ActionButton.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\GeoLocationAutoComplete.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\MapView.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\MainWindow.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Views\NewReportFormView.baml
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Red Alert.g.resources
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Red Alert.exe
+C:\Users\netan\Desktop\windows-system-project-mvvm\MvvmWpfApp\obj\Debug\Red Alert.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Red Alert.exe.config
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Red Alert.exe
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Red Alert.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.dll.config
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Red Alert.exe
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Red Alert.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.MachineLearning.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.Math.Core.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.Math.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.Statistics.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\BE.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\BL.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\ControlzEx.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Dragablz.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\EntityFramework.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\log4net.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MvvmDialogs.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\OxyPlot.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Toolkit.WPF.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\WpfAnimatedGif.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\WPFToolkit.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\XamlAnimatedGif.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\DAL.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\BE.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\BL.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.MachineLearning.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.Math.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.Math.Core.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Accord.Statistics.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\ControlzEx.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Dragablz.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Dragablz.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\EntityFramework.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\log4net.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\MvvmDialogs.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\OxyPlot.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\OxyPlot.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\WpfAnimatedGif.xml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\DAL.pdb
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\About.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\App.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Controls\ActionButton.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\GeoLocationAutoComplete.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\MapView.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\About.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\NewReportFormView.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\App.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Red Alert_Content.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Red Alert_MarkupCompile.cache
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Red Alert_MarkupCompile.lref
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Controls\ActionButton.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\GeoLocationAutoComplete.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\MapView.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\MainWindow.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Views\NewReportFormView.baml
+C:\Users\netan\Desktop\ProjectRockets\MvvmWpfApp\obj\Debug\Red Alert.g.resources

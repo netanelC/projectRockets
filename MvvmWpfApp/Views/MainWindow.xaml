@@ -1,0 +1,147 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mvvm.Views"
+        xmlns:md="https://github.com/fantasticfiasco/mvvm-dialogs"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"   
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:Mvvm="clr-namespace:Mvvm"
+    xmlns:Controls="clr-namespace:Mvvm.Controls"
+    x:Class="Mvvm.Views.MainWindow"
+        md:DialogServiceViews.IsRegistered="True"
+        mc:Ignorable="d"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="{Binding Title}"
+     Width=" 1200"
+        Height = "800"
+    
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None">
+
+    <Window.Resources>
+        <!-- Insert here your Data Templates -->
+        <DataTemplate x:Key="SampleTemplate">
+            <StackPanel/>
+        </DataTemplate>
+
+    </Window.Resources>
+    <Window.InputBindings>
+        <!-- Example of Keyboard shortcuts -->
+        <KeyBinding Command="{Binding SaveCmd}" Key="S" Modifiers="Ctrl" />
+        <KeyBinding Command="{Binding SaveAsCmd}" Gesture="Ctrl+Shift+S" />
+        <KeyBinding Command="{Binding OpenCmd}" Gesture="Ctrl+O" />
+        <KeyBinding Command="{Binding NewCmd}" Gesture="Ctrl+N" />
+        <KeyBinding Command="{Binding ExitCmd}" Gesture="Alt+F4" />
+    </Window.InputBindings>
+
+    <DockPanel>
+        <!-- Menu -->
+        <Grid DockPanel.Dock="Top" Background="Red">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Uid="0" Width="240" Content="Home" FontSize="36" Height="80"  BorderBrush="Black" Foreground="Black" Click="SelectedTabChange" Background="Gold" >
+                    <Button.Effect>
+                        <DropShadowEffect 
+                        ShadowDepth="0"
+                        Color="#FF6DF7FD"
+                        Opacity="1"
+                        BlurRadius="20"/>
+                    </Button.Effect>
+                </Button>
+                <Button Uid="1" Width="240" Content="Distance " Height="80" FontSize="36" BorderBrush="Black" Foreground="Black" Click="SelectedTabChange" Background="Gold" >
+                    <Button.Effect>
+                        <DropShadowEffect 
+                        ShadowDepth="0"
+                        Color="#FF6DF7FD"
+                        Opacity="1"
+                        BlurRadius="20"/>
+                    </Button.Effect>
+                </Button>
+
+            </StackPanel>
+
+
+
+            <Grid Grid.Column="0" x:Name="GridCursor" Width="150" Height="5" VerticalAlignment="Bottom" Background="{StaticResource PrimaryHueDarkForegroundBrush}" HorizontalAlignment="Left"/>
+            <Button Width="50" Height="50"  Click="PowerOffClick" Background="Green"  HorizontalAlignment="Right" VerticalAlignment="Center"  Margin="0,20,-687,10" Grid.Column="1" RenderTransformOrigin="-6,0.84"   >
+                <Button.Effect>
+                    <DropShadowEffect 
+                        ShadowDepth="0"
+                        Color="#FF6DF7FD"
+                        Opacity="1"
+                        BlurRadius="20"/>
+                </Button.Effect>
+                <materialDesign:PackIcon Kind="Power"/>
+            </Button>
+        </Grid>
+        <Grid>
+            <!-- Home -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="377*"/>
+                    <ColumnDefinition Width="139*"/>
+                    <ColumnDefinition Width="676*"/>
+                </Grid.ColumnDefinitions>
+                <Mvvm:MapView x:Name="MapView"  MouseLeftButtonUp="OnMapLeftClick" MouseRightButtonUp="OnMapRightClick" Grid.ColumnSpan="3" Margin="10,0,-10,0"   />
+            </Grid>
+
+            <Controls:ActionButton 
+         
+                        x:Name="kmeansButton"  State="origin" Text="Run K-Means" 
+                        Icon="function" HorizontalAlignment="Left"  ButtonClick="KmeansButton_OnClick" 
+                        Style="{StaticResource MaterialDesignRaisedButton}" Margin="23,103,0,-103" />
+
+            <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="37,75,0,0" TextElement.Foreground="Red" TextAlignment="Center" TextWrapping="Wrap" Text="Areas:" VerticalAlignment="Top" Width="69"/>
+
+
+            <TextBox HorizontalAlignment="Center"  Name="kmeansTB" FontSize="20" TextAlignment="Center" Background="#F8F8F8" Width="30"  Text="{Binding  Path=KmeansValue, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"  VerticalAlignment="Top"  RenderTransformOrigin="0.316,1.421" Margin="127,75,1035,0" />
+
+            <local:NewReportFormView x:Name="ReportFormView" Visibility="Visible" VerticalAlignment="Bottom" HorizontalAlignment="Left" ReportFormVm="{Binding NewReportFormVm}" Loaded="ReportFormView_Loaded" Margin="708,0,0,10" />
+
+
+
+            <!-- Analysis -->
+
+            <Grid>
+                <TextBlock  x:Name="textBlockChangeRange" FontSize="28" TextAlignment="Center" HorizontalAlignment="Left" Margin="304,89,0,0" TextWrapping="Wrap" Text="Press the button, right click on one point and left click on another point to measure the distance between them :" VerticalAlignment="Top" Height="100" Width="566" Visibility="Collapsed" Foreground="Red"/>
+
+
+                <Button  x:Name="goToMap_button"  
+                         HorizontalAlignment="Center"   
+                         Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}"
+                         Width="200" Height="130" 
+                         Background="Purple"  
+                         Click="GoToMap_button_Click"  
+                         Visibility="Collapsed"
+                         Content = "GO" 
+                         TextElement.FontSize="50" Margin="500,245,592,237">
+
+                    <Button.Effect>
+                        <DropShadowEffect 
+                        ShadowDepth="0"
+                        Color="Pink"
+                        Opacity="1"
+                        BlurRadius="20"/>
+                    </Button.Effect>
+                </Button>
+
+                <materialDesign:Card x:Name="AnalysisResult_card" VerticalAlignment="Bottom" HorizontalAlignment="Center" Padding="32" Margin="16" Visibility="Collapsed" Background="DarkBlue">
+                    <TextBlock  x:Name="AnalysisResult_TB" FontStyle="Italic" VerticalAlignment="Center" Visibility="Collapsed" FontSize="30" HorizontalAlignment="Center" Foreground="Yellow"/>
+                </materialDesign:Card>
+
+
+                <ListBox HorizontalAlignment="Left" Height="100" Margin="570,452,0,0" VerticalAlignment="Top" Width="100"/>
+            </Grid>
+
+        </Grid>
+    </DockPanel>
+
+
+
+</Window>
